@@ -1,0 +1,4 @@
+Vivoactive 4: 4-5 FPS
+Forerunner 245: 6 FPS
+Fenix 6X Pro: 6 FPS
+Edge 820: 4 FPS
