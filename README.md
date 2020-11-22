@@ -15,3 +15,5 @@ Author: Tomas Slavicek, support @ tomasslavicek.cz
 More apps and games from me: https://apps.garmin.com/en-US/developer/01782aec-91a1-4db6-bf8e-70e8b6da47e0/apps
 
 You can send me a donation on https://myday24.com/ if you like my work.
+
+![3D Benchmark icon](icon.png)
